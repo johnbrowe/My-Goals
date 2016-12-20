@@ -7,7 +7,7 @@ Just a list of my personal goals.
 
 - [X] Watch 3 Laracasts Videos about Vue.js
 - [ ] Learn Blockchain concept
-- [ ] Watch one TDD Videos
+- [X] Watch one TDD Video
 
 ### Future todo's
 - [ ] Watch Adam Wathans videos on TDD
