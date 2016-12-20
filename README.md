@@ -28,6 +28,12 @@ Just a list of my personal goals.
 - [X] Learning ECMAScript 6, Packt Publishing
 - [ ] Creating Development Environments with Vagrant, Packt Publishing
 - [X] Nginx HTTP Server, Packt Publishing
+- [X] Laravel Application Development Cookbook, Packt Publishing
+- [X] CakePHP 2 Application Cookbook, Packt Publishing
+- [X] Socket.io Real-time Web Application Development, Packt Publishing
+- [X] Node Security, Packt Publishing
+- [X] Node.js Blueprints, Packt Publishing
+
 - [ ] JavaScript Testing Beginner's Guide, Packt Publishing
 - [ ] Learning PHP Data Objects, Packt Publishing
 - [X] Instant Nginx Starter, Packt Publishing
@@ -42,6 +48,11 @@ Just a list of my personal goals.
 - [ ] Real Life Responsive Web Design, Smashing Magazine
 - [ ] High Performance Networking, O'Reilly
 - [X] JavaScript The Good Parts, O'Reilly
+- [X] What Is Node?, O'Reilly
+- [X] What Every Web Developer Should Know About HTTP, OdeToCode Programming
+- [X] Jump Start Bootstrap, Sitepoint
+- [X] Node.js the Right Way, Jim Wilson
+- [X] Practical Node.js, Apress
 
 
 ### Books wish list
