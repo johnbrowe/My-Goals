@@ -5,7 +5,7 @@ Just a list of my personal goals.
 
 ### December 19, 2016
 
-- [ ] Watch 3 Laracasts Videos about Vue.js
+- [X] Watch 3 Laracasts Videos about Vue.js
 - [ ] Learn Blockchain concept
 - [ ] Watch one TDD Videos
 
