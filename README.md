@@ -3,7 +3,15 @@ Just a list of my personal goals.
 
 ## This weeks goals
 
-### December 19, 2016
+### December 26 - Januar 01, 2016
+
+- [ ] Learn Scala fundamentals
+- [ ] Learn SBT fundamentals
+- [ ] Setup Raspberry Pi 
+- [ ] Setup WiPy
+
+
+### December 19 - 25, 2016
 
 - [X] Watch 3 Laracasts Videos about Vue.js
 - [ ] Learn Blockchain concept
@@ -11,6 +19,7 @@ Just a list of my personal goals.
 
 ### Future todo's
 - [ ] Watch Adam Wathans videos on TDD
+- [ ] Watch Scala course on Coursera
 
 
 ### Books to read
@@ -32,7 +41,7 @@ Just a list of my personal goals.
 - [X] CakePHP 2 Application Cookbook, Packt Publishing
 - [X] Socket.io Real-time Web Application Development, Packt Publishing
 - [X] Node Security, Packt Publishing
-- [X] Node.js Blueprints, Packt Publishing
+- [X] Node Security, Packt Publishing
 
 - [ ] JavaScript Testing Beginner's Guide, Packt Publishing
 - [ ] Learning PHP Data Objects, Packt Publishing
