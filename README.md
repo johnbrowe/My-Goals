@@ -5,7 +5,7 @@ Just a list of my personal goals.
 
 ### Januar 02 - Januar 08, 2017
 
-- [ ] Watch 2 Scala tuts
+- [X] Watch 2 Scala tuts
 - [X] 3 chapters in Data structures and Algorithms in JavaScript 
 - [ ] Implement 2 datastructures
 - [ ] 3 Vue.js videos Laracasts
