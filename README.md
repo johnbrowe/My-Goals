@@ -8,7 +8,8 @@ Just a list of my personal goals.
 - [X] Watch 2 Scala tuts
 - [X] 3 chapters in Data structures and Algorithms in JavaScript 
 - [ ] Implement 2 datastructures
-- [ ] 3 Vue.js videos Laracasts
+- [X] 3 Vue.js videos Laracasts
+- [X] 1. Chapter Fundation Of Programming - Data Structures
 
 
 ### December 26 - Januar 01, 2016
