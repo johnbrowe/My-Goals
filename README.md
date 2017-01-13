@@ -3,9 +3,17 @@ Just a list of my personal goals.
 
 ## This weeks goals
 
+
+### Januar 09 - Januar 15, 2017
+
+- [X] Finish chapter 9 Data structures and Algorithms in JavaScript
+- [X] 2 Vue.js videos Laracasts
+- [ ] Setup MongoDB enviroment on Debian VM
+- [X] Watch 2 Scala tuts Coursera
+
 ### Januar 02 - Januar 08, 2017
 
-- [X] Watch 2 Scala tuts
+- [X] Watch 2 Scala tuts Coursera
 - [X] 3 chapters in Data structures and Algorithms in JavaScript 
 - [ ] Implement 2 datastructures
 - [X] 3 Vue.js videos Laracasts
