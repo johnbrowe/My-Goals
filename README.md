@@ -5,7 +5,7 @@ Just a list of my personal goals.
 
 ### Januar 16 - Januar 22, 2017
 
-- [ ] 2 Chapters JavaScript Design Patterns
+- [ ] Chapter 2-3 JavaScript Design Patterns
 - [ ] 2 Vue.js videos Laracasts
 - [ ] 2 Scala tuts Coursera
 - [ ] Upgrade to Vue.js version 2 on private project
