@@ -9,6 +9,7 @@ Just a list of my personal goals.
 - [ ] 2 Vue.js videos Laracasts
 - [ ] 2 Scala tuts Coursera
 - [ ] Upgrade to Vue.js version 2 on private project
+- [ ] Update private website design
 
 ### Januar 09 - Januar 15, 2017
 
