@@ -50,7 +50,7 @@ Just a list of my personal goals.
 - [X] Responsive Web Design with HTML5 and CSS3, Packt Publishing 
 - [ ] Getting Started with SBT for Scala, Packt Publishing
 - [ ] Continuous Delivery and DevOps, Packt Publishing
-- [ ] Data structures and Algorithms in JavaScript, Packt Publishing (Reading)
+- [X] Data structures and Algorithms in JavaScript, Packt Publishing (Reading)
 - [ ] Learning JavaScript Robotics, Packt Publishing
 - [ ] JavaScript at Scale, Packt Publishing
 - [X] JavaScript Unlocked, Packt Publishing
